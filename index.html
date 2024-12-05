@@ -11,9 +11,9 @@
   <header class="header">
     <div class="container">
       <img src="images/logo.png" alt="Likamva Lama Ngwane Logo" class="logo">
-      <nav>
-        <ul class="nav-links">
-          <li><a href="#about">About Us</a></li>
+      <nav class="nav">
+        <ul>
+          <li><a href="#about">About</a></li>
           <li><a href="#services">Services</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
@@ -24,17 +24,19 @@
   <!-- Hero Section -->
   <section class="hero">
     <div class="container">
-      <h1>Maximize Your Refunds, Minimize the Stress</h1>
-      <p>We understand your frustration with SARS. Let us take over, simplify the process, and ensure you get what’s rightfully yours.</p>
-      <a href="#contact" class="cta">Get Started Now</a>
+      <div class="hero-content">
+        <h1>Tax Refunds Made Simple</h1>
+        <p>We know tax season is tough. Let us handle SARS for you while you focus on what matters most.</p>
+        <a href="#contact" class="cta-btn">Get Your Refund</a>
+      </div>
     </div>
   </section>
 
   <!-- About Section -->
   <section id="about" class="about">
     <div class="container">
-      <h2>About Us</h2>
-      <p>At Likamva Lama Ngwane Tax, we specialize in turning tax season from a headache into a relief. With years of experience, we’ve reclaimed millions for our clients and helped them breathe easy.</p>
+      <h2>Who We Are</h2>
+      <p>At Likamva Lama Ngwane Tax Consulting, we specialize in helping individuals and businesses navigate the complexities of SARS. Our expert team ensures you get every cent you’re owed with minimal hassle.</p>
     </div>
   </section>
 
@@ -42,18 +44,21 @@
   <section id="services" class="services">
     <div class="container">
       <h2>Our Services</h2>
-      <div class="service-cards">
+      <div class="service-grid">
         <div class="service-card">
+          <img src="images/service-icon1.png" alt="Tax Filing">
           <h3>Tax Filing</h3>
-          <p>We file your taxes with precision, so you never have to worry about mistakes or missed deadlines.</p>
+          <p>Accurate, hassle-free tax submissions for individuals and businesses.</p>
         </div>
         <div class="service-card">
+          <img src="images/service-icon2.png" alt="Refund Claims">
           <h3>Refund Claims</h3>
-          <p>Our experts ensure you get the maximum refund you’re entitled to, every single time.</p>
+          <p>Maximize your SARS refund with our expert guidance.</p>
         </div>
         <div class="service-card">
+          <img src="images/service-icon3.png" alt="Compliance">
           <h3>SARS Compliance</h3>
-          <p>Stay compliant with SARS regulations while we handle the paperwork and admin.</p>
+          <p>Stay compliant with ease—let us handle the admin and legalities.</p>
         </div>
       </div>
     </div>
@@ -63,11 +68,10 @@
   <section id="contact" class="contact">
     <div class="container">
       <h2>Contact Us</h2>
-      <p>Ready to make tax season stress-free? Fill out the form below, and we’ll get in touch!</p>
+      <p>Let us take the stress out of tax season. Fill out the form below to get started.</p>
       <form id="contact-form">
         <input type="text" name="name" placeholder="Your Name" required>
         <input type="email" name="email" placeholder="Your Email" required>
-        <input type="text" name="phone" placeholder="Your Phone Number" required>
         <textarea name="message" placeholder="Your Message" rows="4" required></textarea>
         <button type="submit">Submit</button>
       </form>
