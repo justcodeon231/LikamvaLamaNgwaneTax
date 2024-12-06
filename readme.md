@@ -64,11 +64,11 @@ This project is proprietary and developed specifically for Likamva Lama Ngwane T
 
 For feedback or collaboration opportunities, feel free to reach out:
 
-Email: your.email@example.com
+Email: ntlukaleo@gmail.com
 
-GitHub: @yourusername
+GitHub: @justcodeon231
 
-Twitter: @yourhandle
+Twitter: @growthwithleo
 
 
 🙌 Thanks for visiting!
