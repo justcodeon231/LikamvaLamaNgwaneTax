@@ -34,21 +34,6 @@ This project is built using:
 
 ---
 
-## 📂 Folder Structure
-
-/project-folder
-├── /css
-│     └── styles.css (All styling)
-├── /js
-│     └── scripts.js (Form validation and interactivity)
-├── /images
-│     ├── logo.png (Brand logo)
-│     ├── hero-bg.jpg (Hero background image)
-│     └── service-icons.png (Icons for service cards)
-└── index.html (Main HTML file)
-
----
-
 ## 📋 Installation  
 
 Follow these steps to get the project up and running:  
