@@ -34,12 +34,6 @@ This project is built using:
 
 ---
 
-## 📋 Installation  
----
-
-
----
-
 🎯 Goals
 
 1. Provide a premium online presence for Likamva Lama Ngwane Tax Consulting.
