@@ -35,18 +35,7 @@ This project is built using:
 ---
 
 ## 📋 Installation  
-
-Follow these steps to get the project up and running:  
-
-1. **Clone the Repository**:  
-   ```bash  
-   git clone https://github.com/yourusername/likamva-lama-ngwane.git  
-   cd likamva-lama-ngwane
-
-2. Open in Your Browser:
-Simply open the index.html file in your browser to view the website.
-
-
+---
 
 
 ---
@@ -62,8 +51,6 @@ Simply open the index.html file in your browser to view the website.
 3. Maximize conversions with clear CTAs and an intuitive user journey.
 
 
-
-
 ---
 
 🤝 Acknowledgments
@@ -76,7 +63,6 @@ A big thanks to the client for trusting us with this project and their vision fo
 💼 License
 
 This project is proprietary and developed specifically for Likamva Lama Ngwane Tax Consulting. All rights reserved.
-
 
 ---
 
